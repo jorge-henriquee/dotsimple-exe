@@ -3,8 +3,8 @@
   "notes": "Correções de bugs e melhorias.",
   "pub_date": "2026-07-14T18:00:00Z",
   "platforms": {
-    "windows-x64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDVDRURFODJENjk1RjRENzUKUldSMVRWOXBMZWp0WEQ2c3VUTExRQTVUTW81S0VYS2E5Sk1aZkZYTm5VL2Y1Y2cwVGZHSk9HTVcK",
+    "windows-x86_64": {
+      "signature": "untrusted comment: signature from tauri secret key dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDFDRTZCMEM3NjMyNTY5MDkKUldRSmFTVmp4N0RtSERscDFYSHJ1NFlMbHhTb2sramFpeHNBaWFPQXNrbFVQWlBSTWZkbjRRcHMK",
       "url": "https://github.com/jorge-henriquee/dotsimple-exe/releases/download/v1.2.0/app-x64-setup.exe"
     }
   }
