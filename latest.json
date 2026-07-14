@@ -4,7 +4,7 @@
   "pub_date": "2026-07-14T18:00:00Z",
   "platforms": {
     "windows-x64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDVDRURFODJENjk1RjRENzUKUldSMVRWOXBMZWp0WEQ2c3VUTExRQTVUTW81S0VYS2E5Sk1aZkZYTm5VL2Y1Y2cwVGZHSk9HTVcK",
       "url": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/download/v1.0.1/MeuPrograma_1.0.1_x64-setup.nsis.zip"
     }
   }
