@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "untrusted comment: signature from tauri secret key dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDcyMzMwOTA1MkQzOERENkIKUldScjNUZ3RCUWt6Y25PSGI5Y0FON1Z2bHlMaEprOU43L2dMV3Fzc0xTWnFBOXF5MXZoSlhOM0gK",
-      "url": "https://github.com/jorge-henriquee/dotsimple-exe/releases/download/v1.2.0/app-x64-setup.exe"
+      "url": "https://github.com/jorge-henriquee/dotsimple-exe/releases/download/1.0.2/Dotsimples.-.Ponto.Eletronico_1.0.2_x64_en-US.msi"
     }
   }
 }
