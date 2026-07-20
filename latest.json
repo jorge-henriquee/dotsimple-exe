@@ -1,11 +1,11 @@
 {
   "version": "1.0.5",
-  "notes": "Correções de bugs e melhorias.",
-  "pub_date": "2026-07-18T18:00:00Z",
+  "notes": "Novo",
+  "pub_date": "2026-07-20T15:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScjNUZ3RCUWt6Y3BNTSt3QndOMThqbUg4NFVWM0NzUmh6blY4Wkp0RCtMRjNaWXVlUCtCTkZXZVExSCtCcHN0OHhnK045cklpdHl4MkJSd2gwekxsTGFGdXRweGlHR3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTcyMzIyCWZpbGU6RG90c2ltcGxlcyAtIFBvbnRvIEVsZXRyw7RuaWNvXzEuMC41X3g2NF9lbi1VUy5tc2kKM1JsVVN3bnA4cmRuVEF6YU0vRFZjN3RZWHNrMWZLYmw3ZjRUZlZXVDlNdFJPK0pWbEN6YXdEN1p3clVwUmlobnZ6SkhpU1BLN2FBWVE5N2pJSHdDQ0E9PQo=",
-      "url": "https://github.com/jorge-henriquee/dotsimple-exe/releases/download/1.0.5/Dotsimples.-.Ponto.Eletronico_1.0.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScjNUZ3RCUWt6Y3VqM2dsQkVqUmY5VXlsbWZlaUlWS1FlRWVNRGx0cWd3VEpRRzRXTjdZVy9STnNjQTdjU29NSlF1SmtmNmx1NHJhSG1jaU9mRWQySmNkMGRpaUViSFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTczNjQ3CWZpbGU6RG90c2ltcGxlcyAtIFBvbnRvIEVsZXRyw7RuaWNvXzEuMC41X3g2NF9lbi1VUy5tc2kKOW1FYWhLeXlzUVlFUmpOWW5qayt4TlZXOVQ0c05SNHA0ZHY4Yy9JbkNtellSZXFYcCszNlo4cWVrSzFTZnNEWDEzaFRVTld2M0lidlMza013MHRNQlE9PQo=",
+      "url": "https://github.com/jorge-henriquee/dotsimple-instalador/releases/download/1.0.5/Dotsimples.-.Ponto.Eletronico_1.0.5_x64_en-US.msi"
     }
   }
 }
