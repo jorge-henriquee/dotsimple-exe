@@ -4,8 +4,8 @@
   "pub_date": "2026-07-18T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScjNUZ3RCUWt6Y29VN3JVbWlUZXBxdDdPNEZudmhRZW9iUTk2bFlDaUhHOFNGdi9kaTcyWFBIQnJYdFVKbUREL0VtTkNPdkVQOURVaVlsRFFvUTRjSFBPQ3lIR2RCbGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mzc3NjU1CWZpbGU6RG90c2ltcGxlcyAtIFBvbnRvIEVsZXRyw7RuaWNvXzEuMC4zX3g2NF9lbi1VUy5tc2kKTjlGbHVIeTB4S2dTN1lxYVZJU0F6d3lCbjdyaWZXdFl5eTVoSkFlT0R1bSs3dFdnUDZPdmV5WTdBdnRFNFJtT2ZDaGUzcytmbHNHWGdPSkF3Mm9MQUE9PQo=",
-      "url": "https://github.com/jorge-henriquee/dotsimple-exe/releases/download/1.0.3/Dotsimples.-.Ponto.Eletronico_1.0.3_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScjNUZ3RCUWt6Y3BNTSt3QndOMThqbUg4NFVWM0NzUmh6blY4Wkp0RCtMRjNaWXVlUCtCTkZXZVExSCtCcHN0OHhnK045cklpdHl4MkJSd2gwekxsTGFGdXRweGlHR3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTcyMzIyCWZpbGU6RG90c2ltcGxlcyAtIFBvbnRvIEVsZXRyw7RuaWNvXzEuMC41X3g2NF9lbi1VUy5tc2kKM1JsVVN3bnA4cmRuVEF6YU0vRFZjN3RZWHNrMWZLYmw3ZjRUZlZXVDlNdFJPK0pWbEN6YXdEN1p3clVwUmlobnZ6SkhpU1BLN2FBWVE5N2pJSHdDQ0E9PQo=",
+      "url": "https://github.com/jorge-henriquee/dotsimple-exe/releases/download/1.0.5/Dotsimples.-.Ponto.Eletronico_1.0.5_x64_en-US.msi"
     }
   }
 }
